@@ -3,7 +3,7 @@
 Forecasting weekly book sales using ARIMA, LSTM, and XGBoost (synthetic sample data).
 
 ## Quickstart
-1. Open `00-demo.ipynb` in Google Colab
+1. Open `00-demo-booksales.ipynb` in Google Colab
 2. Run all cells top to bottom
 3. Explore plots and results
 
